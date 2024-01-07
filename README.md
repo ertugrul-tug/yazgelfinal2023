@@ -10,12 +10,12 @@ Bu uygulama, eğitim kurumları için dinamik bir ders programı oluşturmayı a
 - Haftalık ders programının görselleştirilmesi
 
 ## Kurulum
--Bu projeyi yerel olarak çalıştırmak için aşağıdaki adımları takip edin:
--
--git clone https://github.com/your-username/your-project-name.git
--cd your-project-name
--npm install
--npm start
+- Bu projeyi yerel olarak çalıştırmak için aşağıdaki adımları takip edin:
+- 
+- git clone https://github.com/your-username/your-project-name.git
+- cd your-project-name
+- npm install
+- npm start
 
 ## Kullanım
 Uygulama, belirtilen ders ve hocaya göre otomatik olarak bir ders programı oluşturur. Kullanıcılar, haftalık ders programını görsel bir tablo formatında görüntüleyebilirler.
