@@ -11,7 +11,6 @@ Bu uygulama, eğitim kurumları için dinamik bir ders programı oluşturmayı a
 
 ## Kurulum
 - Bu projeyi yerel olarak çalıştırmak için aşağıdaki adımları takip edin:
-- 
 - git clone https://github.com/your-username/your-project-name.git
 - cd your-project-name
 - npm install
